@@ -1,3 +1,2 @@
 Removed First Line
 Git- Revert - Demo
-Git - Revert - Demo - Making git revert where 2 commits made in the same file
